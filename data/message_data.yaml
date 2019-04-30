@@ -1,0 +1,7 @@
+test_send_message:
+  test_send_message_001:
+    phone: "177"
+    message: "hello"
+  test_send_message_002:
+    phone: "188"
+    message: "abc"
